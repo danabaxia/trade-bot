@@ -3,3 +3,6 @@ virt/
 
 #python cache files
 __pycache__/
+
+#db account info
+config.ini
